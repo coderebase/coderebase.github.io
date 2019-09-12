@@ -1,0 +1,41 @@
+/* override theme */
+.intro {
+  transform: translateY(0vh);
+}
+
+.item {
+  text-align: left;
+  padding: 10px 0;
+}
+
+.item-tag {
+  font-size: 11px;
+}
+
+/* logo */
+
+.navbar-brand {
+  max-width: 100px;
+}
+
+/* titles with brand color */
+
+h3 {
+  color: var(--post-title-color) !important;
+}
+
+h4 {
+  color: var(--post-subtitle-color) !important;
+}
+
+/* code highlighting */
+
+pre {
+  padding: 2px !important;
+}
+
+/* icons */ 
+
+.fa {
+  padding-right: 3px !important;
+}

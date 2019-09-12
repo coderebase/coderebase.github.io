@@ -1,0 +1,77 @@
+/* taxonomies */
+
+.post-meta {
+    padding-left: 15px;
+}
+
+.tag-cloud {
+    padding: 5px 15px;
+}
+
+.series-panel {
+    margin-top: 50px;
+    padding: 5px 15px;
+}
+
+/* content */
+
+.content {
+    text-align: justify;
+}
+
+.content>p, .content>ul>li, .content>blockquote {
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.content>h3, .content>h4 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.content img {
+    max-width: 70%;
+    margin: auto 15%;
+    height: auto;
+}
+
+/* 404 */
+
+.notfound {
+    width: 80vh;
+    height: 50vh;
+}
+
+/* banner */
+
+.banner {
+    width: 100%;
+    background: #f8f8f8;
+}
+
+.banner h1 {
+    color: var(--accent);
+    font-size: 8vw;
+    line-height: 40px;
+}
+
+@media screen and (min-width: 750px) {
+    .banner h1 {
+        font-size: 8vh;
+    }
+}
+
+.banner h2 {
+    font-size: 3.5vw;
+}
+
+@media screen and (min-width: 750px) {
+    .banner h2 {
+        font-size: 3vh;
+    }
+}
+
+.cover-logo {
+    width: 25vh;
+    height: 20vh;
+}
