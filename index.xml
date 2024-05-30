@@ -6,7 +6,14 @@
     <description>Recent content on coderebase</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 21:30:00 +0100</lastBuildDate>
     <atom:link href="https://www.coderebase.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s this about</title>
+      <link>https://www.coderebase.io/2024/05/30/whats-this-about/</link>
+      <pubDate>Thu, 30 May 2024 21:30:00 +0100</pubDate>
+      <guid>https://www.coderebase.io/2024/05/30/whats-this-about/</guid>
+      <description>This site will be the home of technology-related content, with the aim at helping developers, architects and infrastructure engineers on their daily work.</description>
+    </item>
   </channel>
 </rss>
